@@ -74,12 +74,10 @@ Excel-Sales-Dashboard-Project
 - Consumer segment contributed the highest revenue.
 - West region achieved the highest sales.
 - Sean Miller was the top customer.
+- 
+## 📸 Dashboard Preview
 
----## 📸 Dashboard Preview
-
-
-(Screenshots/Dasboard.png)
-
+![Dashboard](Screenshots/Dasboard.png)
 
 
 ## 👨‍💻 Author
