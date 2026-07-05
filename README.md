@@ -75,11 +75,15 @@ Excel-Sales-Dashboard-Project
 - West region achieved the highest sales.
 - Sean Miller was the top customer.
 
----
+---## 📸 Dashboard Preview
+
+![Dashboard](Screenshots/Dasboard.png)
+
+
 
 ## 👨‍💻 Author
 
-**Sadullah Karimi**
+** Md Sadullah Karimi**
 
 GitHub:
 https://github.com/mdsadullahkarimi
