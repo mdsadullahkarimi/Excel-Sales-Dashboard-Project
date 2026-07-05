@@ -77,7 +77,8 @@ Excel-Sales-Dashboard-Project
 
 ---## 📸 Dashboard Preview
 
-![Dashboard](Screenshots/Dasboard.png)
+
+(Screenshots/Dasboard.png)
 
 
 
